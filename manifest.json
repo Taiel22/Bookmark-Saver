@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Bookmark Saver",
   "version": "1.0",
-  "description": "Bookmark Saver saves any url like Bookmark",
+  "description": "A lightweight, clean, and intuitive Chrome Extension (Manifest V3) that allows users to quickly save, manage, and access their favorite websites and bookmarks in one place.",
   "action": {
     "default_popup": "index.html",
     "default_icon": "icon.png"
